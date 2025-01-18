@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../.pytest_cache"
+		},
+		{
+			"path": "../.venv"
+		},
+		{
+			"path": "../__pycache__"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../test_data"
+		},
+		{
+			"path": "../tests"
+		},
+		{
+			"path": "../Utilities"
+		},
+		{
+			"path": "../venv"
+		}
+	]
+}
